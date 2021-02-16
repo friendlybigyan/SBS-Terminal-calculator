@@ -33,4 +33,4 @@ Literally one letter commands, mostly. Super easy to start. Everything works jus
 Basic step by step stuff happening:
 ![Screenshot-20210216-174324](https://i.ibb.co/pfV2L77/Screenshot-20210216-174324.png)
 Quadratic roots? easy.
-![Sexy-screenshot](https://i.ibb.co/PZMF8tK/Screenshot-20210216-172151.png)This is all thats been happening in this small little "project" of mine. I would gladly accept any help regarding improvements or bug fixes that you'd like to suggest. You might do so by contacting me through my [Messenger](facebook.com/adarsha.acharya.me) or just by emailing me to friendlybigyan@gmail.com.
+![Sexy-screenshot](https://i.ibb.co/PZMF8tK/Screenshot-20210216-172151.png)This is all thats been happening in this small little "project" of mine. I would gladly accept any help regarding improvements or bug fixes that you'd like to suggest. You might do so by contacting me through my [Messenger](https:/www.facebook.com/adarsha.acharya.me) or just by emailing me to friendlybigyan@gmail.com.
